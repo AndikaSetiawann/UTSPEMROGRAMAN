@@ -159,7 +159,7 @@ Website dinamis dengan tema One Piece yang dibangun menggunakan PHP, Bootstrap, 
 
 ### 6. 404 Page (404.php)
 
-![alt text](Gambar/form.png)
+![alt text](![404 Not Found](https://github.com/user-attachments/assets/8f4f698a-08e3-444f-a8f5-d42f0fe4b548)
 
 #### Struktur Utama
 
