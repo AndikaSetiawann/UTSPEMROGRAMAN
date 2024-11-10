@@ -45,8 +45,9 @@ Website dinamis dengan tema One Piece yang dibangun menggunakan PHP, Bootstrap, 
 
 ### 1. Home Page (home.php)
 
-![alt text](c:\xampp\htdocs\dika\Gambar\Home 1.png)
-![alt text](c:\xampp\htdocs\dika\Gambar\Home 2.png)
+![alt text](![Home 1](https://github.com/user-attachments/assets/9cfe67bb-7f7a-45a7-9763-617869b456dd)
+![alt text](![Home 2](https://github.com/user-attachments/assets/aed1600e-49b3-4a7f-95eb-0de5976a0e31)
+
 
 #### Hero Section
 
@@ -85,7 +86,7 @@ Website dinamis dengan tema One Piece yang dibangun menggunakan PHP, Bootstrap, 
 
 ### 2. About Page (about.php)
 
-![alt text](c:\xampp\htdocs\dika\Gambar\About.png)
+![alt text](![About](https://github.com/user-attachments/assets/f8fc489c-3bcb-4d96-b435-f6d24272e5bb)
 
 #### Profile Section
 
@@ -101,7 +102,7 @@ Website dinamis dengan tema One Piece yang dibangun menggunakan PHP, Bootstrap, 
 
 ### 3. Contact Page (contact.php)
 
-![alt text](c:\xampp\htdocs\dika\Gambar\Contact.png)
+![alt text](![Contact](https://github.com/user-attachments/assets/5dd41288-d9b8-48d9-be9d-2678c2f2aa73)
 
 #### Contact Form
 
@@ -124,7 +125,7 @@ Website dinamis dengan tema One Piece yang dibangun menggunakan PHP, Bootstrap, 
 
 ### 4. DataTables Page (datatables.php)
 
-![alt text](c:\xampp\htdocs\dika\Gambar\Databels.png)
+![alt text](![Databels](https://github.com/user-attachments/assets/e836458f-a2b0-40ef-8238-d89502795bed)
 
 #### Fitur Tabel
 
@@ -142,7 +143,7 @@ Website dinamis dengan tema One Piece yang dibangun menggunakan PHP, Bootstrap, 
 
 ### 5. Registration Form Page (form.php)
 
-![alt text](c:\xampp\htdocs\dika\Gambar\Form.png)
+![alt text](![Form](https://github.com/user-attachments/assets/99407a85-eedb-4c1e-89d3-82adf8f230b1)
 
 #### Struktur Utama
 
