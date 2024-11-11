@@ -164,7 +164,6 @@ Website dinamis dengan tema One Piece yang dibangun menggunakan PHP, Bootstrap, 
 #### Struktur Utama
 
 - Container utama dengan tampilan tengah.
-- Gambar logo One Piece dengan animasi.
 
 #### Elemen Utama
 
