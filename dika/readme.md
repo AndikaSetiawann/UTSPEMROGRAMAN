@@ -17,7 +17,6 @@ Website dinamis dengan tema One Piece yang dibangun menggunakan PHP, Bootstrap, 
 
 1. **Logo & Brand**
 
-   - Logo One Piece dengan animasi
    - Brand text "Vinpeace" dengan styling custom
 
 2. **Menu Utama**
@@ -36,7 +35,6 @@ Website dinamis dengan tema One Piece yang dibangun menggunakan PHP, Bootstrap, 
 
 ### 📱 Responsive Features
 
-- Hamburger menu untuk tampilan mobile
 - Collapsible navbar
 - Responsive grid system
 - Adaptive images
@@ -63,6 +61,7 @@ Website dinamis dengan tema One Piece yang dibangun menggunakan PHP, Bootstrap, 
   - GitHub
   - LinkedIn
   - Instagram
+  - X (Tweeter)
 - Hover effect pada card.
 
 #### Feature Cards
@@ -97,8 +96,8 @@ Website dinamis dengan tema One Piece yang dibangun menggunakan PHP, Bootstrap, 
 
 #### Tim Kami
 
-- Profil Anda sebagai pengelola website.
-- Karakter Luffy dan Nami sebagai ikon tambahan.
+- Profile Anda sebagai pengelola website.
+- Profile Saya Sebagai Dev, Profile Ridho Fauzi Sebagai End Dev, dan Ade Setiawan Sebagai UI/UX Designer
 
 ### 3. Contact Page (contact.php)
 
